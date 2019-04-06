@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="times">
+	    <item> 30 分钟 </item>
+	    <item> 10 分钟 </item>
+	    <item> 5    分钟 </item>
+	    <item> 1    分钟 </item>
+    </string-array>
+    
+    <string-array name="com">
+	    <item> Com 1 </item>
+	    <item> Com 2 </item>
+    </string-array>
+     
+    <string-array name="ipdress">
+	    <item> 192.168.100.42</item>
+	    <item> 192.168.3.1</item>
+	    <item> 192.168.2.1</item>
+	    <item> 192.168.1.1</item>
+	    <item> 192.168.0.1</item>
+	    <item> 其他 </item>
+    </string-array>    
+</resources>
